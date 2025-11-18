@@ -23,4 +23,9 @@ public class OrderDetailDto {
     private Long productQuantity;
 
     private Long productTotalPrice;
+
+    //제품 정보
+    private String productName;
+    private String productImgUrl;
+    private String productCategory;
 }

@@ -6,8 +6,8 @@ import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Positive;
 import lombok.Getter;
 import lombok.Setter;
-import org.joda.time.LocalDateTime;
 
+import java.time.LocalDateTime;
 import java.util.List;
 
 @Getter
